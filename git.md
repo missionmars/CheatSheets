@@ -5,7 +5,12 @@
 git init .
 ```
 
-### View All Remote Streams
+### View all remote streams
 ```bash
 git remote -v
+```
+### Push your local repository to remote
+```bash
+git remote add origin https:// ...
+git push -u origin master
 ```
