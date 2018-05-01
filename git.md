@@ -14,3 +14,8 @@ git remote -v
 git remote add origin https:// ...
 git push -u origin master
 ```
+
+### Clear Port & Run Django Server
+```bash
+sudo fuser -k 8001/tcp; python manage.py runserver 192.168.0.2:8081 
+```
