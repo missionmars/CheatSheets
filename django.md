@@ -1,6 +1,6 @@
 #### Django Cheat Sheet
 
-## Runer server script
+## Run server script - Shortcut
 
 cd /usr/bin
 
