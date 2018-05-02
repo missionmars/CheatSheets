@@ -35,7 +35,7 @@ git checkout master
 git merge development
 ```
 
-### production 
+### Production 
 ```bash
 git pull origin master
 ```
