@@ -19,3 +19,9 @@ git push -u origin master
 ```bash
 sudo fuser -k 8001/tcp; python manage.py runserver 192.168.0.2:8081 
 ```
+
+### Remove branch
+
+```bash
+git branch -d the_local_branch
+```
